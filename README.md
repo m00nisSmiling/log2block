@@ -17,10 +17,10 @@ sudo su
 ```
 python3 install.py
 ```
-#### 5.  Fill your web server
-#### 6.  Fill username of home directory to install the script files
-#### 7.  Fill telegram bot api key
-#### 8. Fill telegram chatid to send banned ip address and malicious informations
+``` -> Fill your web server name (apache or nginx ...etc)```
+``` -> Fill username of home directory to install the script files (root or other user ?)```
+``` -> Fill telegram bot api key (to report malicious activities using telegram bot)```
+``` -> Fill telegram chatid to send banned ip address and malicious informations (report to this chat id) ```
 
 #### 9. Start & enable firewall service
 
